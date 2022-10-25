@@ -14,4 +14,4 @@ Etapes de réalisation du code Python:
 Etape 1:  vérifier si le fichier à lire est de format csv, si oui ;
  (si oui)  ->	Etape 2 : Parcourir le csv
 		Etape 3 : Detecter et suprimmer les lignes vides (NA)
-		Etape 4 : Remplacer avec "_"  les valuers de colonnes contant des espaces. 
+		Etape 4 : Remplacer avec "_"  les valuers des colonnes contenant des espaces. 
