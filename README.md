@@ -1,7 +1,7 @@
 # Projet-M1-IA-
 * Creer le depot : inviter ses collegues
-	creers de branches pour chaqu'un
-	faire un readme.txt pour detailler le travail.( avec tout la descipption)
+	creer des branches pour chaque personne du groupe
+	faire un readme.txt pour detailler le travail.( avec toute la description)
 	on va creer un fonction .py qui fait :
 		-lecteur d’un .csv
 		-si le nom des colonnes y a des espaces( on les enleve «_ »)
